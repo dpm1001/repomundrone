@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.mundrone"
        name="[COLOR silver]*[/COLOR][COLOR blue]MunDrone[/COLOR][COLOR silver]*[/COLOR]"
-       version="0.0.3"
+       version="0.0.4"
        provider-name="Creado por David">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
